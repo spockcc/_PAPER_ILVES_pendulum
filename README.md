@@ -4,8 +4,8 @@ This material supplements a manuscript submitted to JOURNAL-NAME
 
 This repository contains the files
 
-.
-├── bad_pendulum.pdf
+.<br>
+├── bad_pendulum.pdf<br>
 ├── flip.pdf
 ├── good_pendulum.pdf
 ├── initq.m
